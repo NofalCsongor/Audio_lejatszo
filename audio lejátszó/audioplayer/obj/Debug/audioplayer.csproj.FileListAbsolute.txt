@@ -1,0 +1,22 @@
+C:\Audio lejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.exe.config
+C:\Audio lejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.exe
+C:\Audio lejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.pdb
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csprojAssemblyReference.cache
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\MainWindow.g.cs
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\App.g.cs
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer_MarkupCompile.cache
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer_MarkupCompile.lref
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\MainWindow.baml
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.g.resources
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.Properties.Resources.resources
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csproj.GenerateResource.cache
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csproj.CoreCompileInputs.cache
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.exe
+C:\Audio lejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.pdb
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\audioplayer.csprojAssemblyReference.cache
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\MainWindow.g.cs
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\App.g.cs
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\audioplayer_MarkupCompile.cache
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\audioplayer_MarkupCompile.lref
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\audioplayer.exe
+C:\Audio lejátszó\audio lejátszó\audioplayer\obj\Debug\audioplayer.pdb
