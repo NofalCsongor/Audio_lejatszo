@@ -19,7 +19,7 @@
                 <ImageBrush ImageSource="play.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="pause" Content="" HorizontalAlignment="Left" Height="110" Margin="103.5,297,0,0" VerticalAlignment="Top" Width="130" Click="pause_Click" Grid.Column="1">
+        <Button x:Name="pause" Content="" HorizontalAlignment="Left" Height="110" Margin="103.5,297,0,0" VerticalAlignment="Top" Width="130" Click="szunet_Click" Grid.Column="1">
             <Button.Background>
                 <ImageBrush ImageSource="pause.png"/>
             </Button.Background>
