@@ -80,9 +80,6 @@ namespace audioplayer
             timer.Stop();
         }
 
-
-
-
         private void ChangeMediaVolume(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             mediaPlayer.Volume = (double)volumeslider.Value;
@@ -102,8 +99,5 @@ namespace audioplayer
         {
             lblProgressStatus.Text = TimeSpan.FromSeconds(sliProgress.Value).ToString(@"hh\:mm\:ss");
         }
-
-
-
     }
 }
